@@ -3,14 +3,12 @@ import chart from '../chart.json';
 import { CartesianGrid, Legend, Line, LineChart, Tooltip, XAxis, YAxis } from 'recharts';
 
 const Recharts = () => {
-  console.log(chart.places);
 
   const data = Object.entries(chart.places).map(([place, values]) => ({
     place,
     count: values.count,
     percentage: values.percentage,
   }));
-console.log(data)
   return (
     <div>
       <LineChart width={900} height={500} data={data} margin={{ top: 5, right: 30, left: 20, bottom: 10 }}>
