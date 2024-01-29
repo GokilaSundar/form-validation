@@ -1,0 +1,114 @@
+{
+    "places": {
+      "TOWNHALL": {
+        "count": 1,
+        "percentage": 4
+      },
+      "GANAPATHY": {
+        "count": 3,
+        "percentage": 10
+      },
+      "KARAMADAI": {
+        "count": 7,
+        "percentage": 9.0
+      },
+      "VEDAPATTI": {
+        "count": 10,
+        "percentage": 1
+      },
+      "P N PUDUR": {
+        "count": 20,
+        "percentage": 7
+      },
+      "KALVEERAMPALAYAM": {
+        "count": 5,
+        "percentage": 4
+      },
+      "VADAVALLI": {
+        "count": 19,
+        "percentage": 8
+      },
+      "PERUR": {
+        "count": 15,
+        "percentage": 5.0
+      },
+      "GANDHIMANAGAR": {
+        "count": 3,
+        "percentage": 3.5
+      },
+      "RAMANATHAPURAM": {
+        "count": 6,
+        "percentage": 2.5
+      },
+      "ONDIPUDUR": {
+        "count": 8,
+        "percentage": 4.9
+      },
+      "PEELAMEDU": {
+        "count": 1,
+        "percentage": 1.5
+      },
+      "SINGANALLUR": {
+        "count": 3,
+        "percentage": 5.5
+      },
+      "KOTTAIMEDU": {
+        "count": 16,
+        "percentage": 4
+      },
+      "PODANUR": {
+        "count": 19,
+        "percentage": 8.7
+      },
+      "EACHANARI": {
+        "count": 12,
+        "percentage": 4
+      },
+      "VELLALORE": {
+        "count": 11,
+        "percentage": 10
+      },
+      "KOVAIPUDUR": {
+        "count": 13,
+        "percentage": 3.8
+      },
+      "KURICHI": {
+        "count": 18,
+        "percentage": 4
+      },
+      "SUNDAKAMUTHUR": {
+        "count": 14,
+        "percentage": 6.6
+      },
+      "GANDHIPURAM": {
+        "count": 5,
+        "percentage": 3
+      },
+      "RACECOURSE": {
+        "count": 9,
+        "percentage": 2.3
+      },
+      "UKKADAM": {
+        "count": 10,
+        "percentage": 7.8
+      },
+      "RS PURAM ": {
+        "count": 12,
+        "percentage": 4.6
+      },
+      "POOCHIYUR": {
+        "count": 4,
+        "percentage": 4.0
+      }
+    },
+    "drugs": {
+      "METH": 5,
+      "LSD": 5,
+      "MARIJUANA": 4,
+      "HEROIN": 3,
+      "MORPHINE": 3,
+      "COCAINE": 2,
+      "PSYLOCYBIN MUSHROOM": 2,
+      "MDMA": 1
+    }
+  }

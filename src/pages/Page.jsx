@@ -16,7 +16,6 @@ const page = () => {
   const [enabled, setEnabled] = useState(records.map(()=>false))
 const handleChange=(index)=>{
     const changedData=[...enabled]
-
     changedData[index]=!changedData[index]
     setEnabled(changedData)
 }
@@ -71,18 +70,13 @@ pointer-events-none inline-block h-[24px] w-[24px] transform rounded-full bg-whi
                 </td>
               </tr>
             ))}
-
-
-
-          </tbody>
+           </tbody>
         </table>
       </div>
       {records.map((item, index) => (
         <FormModel key={index} enable={enabled[index]} onClose={()=>handleChange(index)} />
       ))}
     </div>
-
-
   )
 }
 
